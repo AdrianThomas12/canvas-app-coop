@@ -1,0 +1,10 @@
+Screen1 As screen:
+
+    BadgeCanvas1 As Badge:
+        DisplayMode: =DisplayMode.Edit
+        Height: =32
+        Width: =32
+        X: =297
+        Y: =214
+        ZIndex: =1
+
